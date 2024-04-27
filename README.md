@@ -1,16 +1,26 @@
-### Hi there 👋
+### Boas vindas ao meu perfil!! 💙
 
-<!--
-**edergracional/edergracional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Eder Gracional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando [Alura](https://www.alura.com.br).
+- Estou me desenvolvendo nalinguagem JavaScript.
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos em desenvolvimento.
+
+### Caso queira entrar me contato comigo 📧
+
+edergracional@hotmail.com
+
+eder-gracional@hotmail.com
+
+
+
+
+
+
+
+
+
+
+
+![texto-alternativo](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
